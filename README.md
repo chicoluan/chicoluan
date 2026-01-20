@@ -13,16 +13,6 @@
 
 <p>I’m passionate about leveraging my diverse skill set to build efficient and impactful solutions. Let's connect!</p>
 
-
-<div>
-  <a href="https://www.instagram.com/chicoluan.ts/" target="_blank">
-	  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/engluanoliv/" target="_blank">
-	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
- <hr>
- <div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
